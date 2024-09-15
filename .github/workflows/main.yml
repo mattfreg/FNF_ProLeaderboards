@@ -3,7 +3,7 @@ name: Main
 on:
     workflow_dispatch:
     schedule:
-      - cron: "*/30 * * * *"  # Run every 30 minutes
+      - cron: "*/15 * * * *"  # Run every 30 minutes
 
 permissions: write-all
 
