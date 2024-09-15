@@ -1,0 +1,38 @@
+name: Main
+
+on:
+    workflow_dispatch:
+
+permissions: write-all
+
+jobs:
+  fetch_api:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4.1.7
+
+      - name: Set up Python
+        uses: actions/setup-python@v5.2.0
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Fetch
+        run: python leaderboards.py
+        env:
+            ACCOUNT_ID: ${{ secrets.ACCOUNT_ID1 }}
+            BASIC_AUTH: ${{ secrets.BASIC_AUTH }}
+            DEVICE_ID: ${{ secrets.DEVICE_ID1 }}
+            SECRET: ${{ secrets.SECRET1 }}
+
+      - name: Commit and push artifact
+        run: |
+            git config --global user.email "actions@github.com"
+            git config --global user.name "GitHub Actions"
+            git pull
+            git add .
+            git commit -m "Update Leaderboards (1 AM)"
+            git push
