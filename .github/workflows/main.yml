@@ -23,10 +23,10 @@ jobs:
       - name: Fetch
         run: python leaderboards.py
         env:
-            ACCOUNT_ID: ${{ secrets.ACCOUNT_ID1 }}
+            ACCOUNT_ID: ${{ secrets.ACCOUNT_ID }}
             BASIC_AUTH: ${{ secrets.BASIC_AUTH }}
-            DEVICE_ID: ${{ secrets.DEVICE_ID1 }}
-            SECRET: ${{ secrets.SECRET1 }}
+            DEVICE_ID: ${{ secrets.DEVICE_ID }}
+            SECRET: ${{ secrets.SECRET }}
 
       - name: Commit and push artifact
         run: |
