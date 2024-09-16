@@ -4885,65 +4885,13 @@
             "userName": "DaCableGuyEG",
             "best_run": {
                 "accuracy": 100,
-                "score": 352595,
+                "score": 352841,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": true
             },
             "sessions": [
-                {
-                    "time": 1725025498.197,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 342779,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 88,
-                            "fullcombo": false,
-                            "stars": 6,
-                            "scores": {
-                                "overdrive_bonus": 119712,
-                                "base_score": 452159,
-                                "total": 643500
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 65,
-                                "score": 5506,
-                                "difficulty": 0,
-                                "instrument": 0,
-                                "fullcombo": false,
-                                "stars": 2,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 99,
-                                "score": 342779,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            },
-                            {
-                                "accuracy": 100,
-                                "score": 92595,
-                                "difficulty": 3,
-                                "instrument": 2,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1725053136.743,
                     "valid": {
@@ -5295,6 +5243,40 @@
                             {
                                 "accuracy": 100,
                                 "score": 347401,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1726454961.149,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 352841,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 352841,
+                                "total": 352841
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 352841,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
