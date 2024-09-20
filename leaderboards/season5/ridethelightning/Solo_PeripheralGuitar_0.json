@@ -1403,12 +1403,12 @@
             "teamId": "78a6ca8f943e41d8b34917af493c8a42",
             "userName": "Steebs227",
             "best_run": {
-                "accuracy": 99,
-                "score": 529476,
+                "accuracy": 100,
+                "score": 532617,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1541,6 +1541,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1726812529.229,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 532617,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 532617,
+                                "total": 532617
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 532617,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
