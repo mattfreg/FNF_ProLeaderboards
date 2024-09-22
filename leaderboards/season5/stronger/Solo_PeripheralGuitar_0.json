@@ -4961,73 +4961,15 @@
         },
         {
             "rank": 50,
-            "teamId": "fd6266f465234eb88e19fc01c2168041",
-            "userName": "FuTuReXxVsPaStX",
-            "best_run": {
-                "accuracy": 99,
-                "score": 300058,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1726450682.493,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 300058,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 6,
-                            "scores": {
-                                "overdrive_bonus": 95563,
-                                "base_score": 492904,
-                                "total": 627364
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 300058,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            },
-                            {
-                                "accuracy": 99,
-                                "score": 192846,
-                                "difficulty": 3,
-                                "instrument": 1,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 51,
             "teamId": "2651cb71efa643ceb478f45739a4822c",
             "userName": "Lethal_Sushi",
             "best_run": {
                 "accuracy": 100,
-                "score": 299354,
+                "score": 300460,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -5164,6 +5106,98 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1726986737.099,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 300460,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 300460,
+                                "total": 300460
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 300460,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 51,
+            "teamId": "fd6266f465234eb88e19fc01c2168041",
+            "userName": "FuTuReXxVsPaStX",
+            "best_run": {
+                "accuracy": 99,
+                "score": 300058,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1726450682.493,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 300058,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 95563,
+                                "base_score": 492904,
+                                "total": 627364
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 300058,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 192846,
+                                "difficulty": 3,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
                             }
                         ]
                     }
