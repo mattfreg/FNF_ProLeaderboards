@@ -2,6 +2,89 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "b70e93e5c08247ee9a83d9fd941edd7a",
+            "userName": "Ben Storaro",
+            "best_run": {
+                "accuracy": 100,
+                "score": 123651,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1727010244.16,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 118838,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 118838,
+                                "total": 118838
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 118838,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727027110.676,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 123651,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 123651,
+                                "total": 123651
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 123651,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "8579d344285d4f3ca394e3d0234713f1",
             "userName": "Jackasplat",
             "best_run": {
@@ -70,55 +153,6 @@
                                 "fullcombo": false,
                                 "stars": 5,
                                 "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 2,
-            "teamId": "b70e93e5c08247ee9a83d9fd941edd7a",
-            "userName": "Ben Storaro",
-            "best_run": {
-                "accuracy": 100,
-                "score": 118838,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1727010244.16,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 118838,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 118838,
-                                "total": 118838
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 118838,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
                             }
                         ]
                     }
