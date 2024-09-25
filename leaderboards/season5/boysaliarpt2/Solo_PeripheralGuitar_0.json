@@ -8435,12 +8435,12 @@
             "teamId": "f9c91da037464417af661a39a1f06b70",
             "userName": "Eden Eye Echo",
             "best_run": {
-                "accuracy": 98,
-                "score": 86257,
+                "accuracy": 100,
+                "score": 86263,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -8471,6 +8471,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727235296.967,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 86263,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 86263,
+                                "total": 86263
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 86263,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
