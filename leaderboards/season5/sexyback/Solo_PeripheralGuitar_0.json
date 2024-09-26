@@ -2,6 +2,55 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "6cd6314f5a5a40a094d313f0211a13a7",
+            "userName": "Sweaty Kurtis",
+            "best_run": {
+                "accuracy": 100,
+                "score": 136464,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1727364051.927,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 136464,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 136464,
+                                "total": 136464
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 136464,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "18eb591d512941598a29e70ce88e22f1",
             "userName": "acaitwentyeight",
             "best_run": {
@@ -77,12 +126,12 @@
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
             "teamId": "14df7a1504ba4c0a8b76b5a9b73b751c",
             "userName": "lukegee33",
             "best_run": {
                 "accuracy": 99,
-                "score": 124668,
+                "score": 126702,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -114,6 +163,40 @@
                             {
                                 "accuracy": 99,
                                 "score": 124668,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727363920.275,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 126702,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 126702,
+                                "total": 126702
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 126702,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
