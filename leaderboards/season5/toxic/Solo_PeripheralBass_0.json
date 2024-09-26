@@ -2,6 +2,64 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "c144b163adbe456591dd553f459a3cc9",
+            "userName": "Launchables",
+            "best_run": {
+                "accuracy": 100,
+                "score": 120812,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1727393160.991,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 120812,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 61472,
+                                "base_score": 228406,
+                                "total": 289877
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 107593,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 120812,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "6cd6314f5a5a40a094d313f0211a13a7",
             "userName": "Sweaty Kurtis",
             "best_run": {
@@ -68,7 +126,7 @@
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
             "teamId": "18eb591d512941598a29e70ce88e22f1",
             "userName": "acaitwentyeight",
             "best_run": {
@@ -135,6 +193,64 @@
                                 "difficulty": 3,
                                 "instrument": 0,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "teamId": "f3fd299d29884849ab25113c4d52df12",
+            "userName": "33Rovers",
+            "best_run": {
+                "accuracy": 99,
+                "score": 107593,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1727393160.99,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 107593,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 61472,
+                                "base_score": 228406,
+                                "total": 289877
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 107593,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 120812,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": false
                             }
