@@ -1787,12 +1787,12 @@
             "teamId": "2651cb71efa643ceb478f45739a4822c",
             "userName": "Lethal_Sushi",
             "best_run": {
-                "accuracy": 99,
-                "score": 95669,
+                "accuracy": 100,
+                "score": 95808,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1995,6 +1995,49 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727406707.511,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 95808,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 95,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 24128,
+                                "base_score": 152744,
+                                "total": 176872
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 91,
+                                "score": 56936,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 95808,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
