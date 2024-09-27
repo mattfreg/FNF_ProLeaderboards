@@ -55,11 +55,11 @@
             "userName": "Halodudde",
             "best_run": {
                 "accuracy": 100,
-                "score": 96732,
+                "score": 96776,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -328,6 +328,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727472576.556,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 96776,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 96776,
+                                "total": 96776
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 96776,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
