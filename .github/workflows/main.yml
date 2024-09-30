@@ -38,5 +38,6 @@ jobs:
           git stash
           git pull
           git stash pop
+          git add .  # Ensure all modified files are staged
           git commit -m "Update Leaderboards"
           git push
