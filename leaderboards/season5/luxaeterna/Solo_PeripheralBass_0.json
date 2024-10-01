@@ -631,11 +631,11 @@
             "userName": "Chiefmaster25",
             "best_run": {
                 "accuracy": 100,
-                "score": 286224,
+                "score": 287466,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -765,6 +765,40 @@
                             {
                                 "accuracy": 99,
                                 "score": 266862,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727811711.615,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 287466,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 287466,
+                                "total": 287466
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 287466,
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": false,
