@@ -2289,47 +2289,13 @@
             "userName": "BALTO12272",
             "best_run": {
                 "accuracy": 100,
-                "score": 48696,
+                "score": 48832,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": true
             },
             "sessions": [
-                {
-                    "time": 1727835589.489,
-                    "valid": {
-                        "accuracy": 93,
-                        "score": 31141,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 5,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 93,
-                            "fullcombo": false,
-                            "stars": 3,
-                            "scores": {
-                                "overdrive_bonus": 4520,
-                                "base_score": 39655,
-                                "total": 44175
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 93,
-                                "score": 31141,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 5,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1727835791.006,
                     "valid": {
@@ -2630,6 +2596,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1727851830.141,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 48832,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 48832,
+                                "total": 48832
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 48832,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
