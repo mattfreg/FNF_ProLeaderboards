@@ -1987,60 +1987,11 @@
         },
         {
             "rank": 19,
-            "teamId": "61721647aa8f49679e43f38bfee57574",
-            "userName": "Nightwolf199",
-            "best_run": {
-                "accuracy": 100,
-                "score": 250525,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1729264986.654,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 250525,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 250525,
-                                "total": 250525
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 250525,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 20,
             "teamId": "a871a294b16c42478e503d3f44d7a4db",
             "userName": "Corporal_Salt",
             "best_run": {
                 "accuracy": 100,
-                "score": 249979,
+                "score": 250927,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
@@ -2147,6 +2098,98 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1729354691.126,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 250927,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 90,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 7270,
+                                "base_score": 278777,
+                                "total": 309381
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 250927,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 81,
+                                "score": 27850,
+                                "difficulty": 2,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 2,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 20,
+            "teamId": "61721647aa8f49679e43f38bfee57574",
+            "userName": "Nightwolf199",
+            "best_run": {
+                "accuracy": 100,
+                "score": 250525,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1729264986.654,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 250525,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 250525,
+                                "total": 250525
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 250525,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
