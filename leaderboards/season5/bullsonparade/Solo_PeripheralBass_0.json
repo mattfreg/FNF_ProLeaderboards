@@ -2388,12 +2388,12 @@
             "teamId": "61721647aa8f49679e43f38bfee57574",
             "userName": "Nightwolf199",
             "best_run": {
-                "accuracy": 100,
-                "score": 155387,
+                "accuracy": 99,
+                "score": 156675,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -2426,6 +2426,49 @@
                                 "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1729367653.772,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 156675,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 55152,
+                                "base_score": 235279,
+                                "total": 309547
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 156675,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 97,
+                                "score": 78603,
+                                "difficulty": 2,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
                             }
                         ]
                     }
