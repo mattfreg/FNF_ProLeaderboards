@@ -2,11 +2,60 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "ab8237620aec446db22e8b0366674b47",
+            "userName": "Koji3rdLeg",
+            "best_run": {
+                "accuracy": 98,
+                "score": 187092,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1729331068.712,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 187092,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 187092,
+                                "total": 187092
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 187092,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "2e6fded2634f4df8ae18ab6c2492f20f",
             "userName": "MrMeeler",
             "best_run": {
-                "accuracy": 97,
-                "score": 125052,
+                "accuracy": 98,
+                "score": 153641,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 5,
@@ -98,11 +147,72 @@
                             }
                         ]
                     }
+                },
+                {
+                    "time": 1729330900.109,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 153641,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 353246,
+                                "base_score": 567877,
+                                "total": 1062449
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 232404,
+                                "difficulty": 3,
+                                "instrument": 1,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 153641,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 58281,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 123550,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
                 }
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
             "teamId": "554f387a58524000bbdd1b7d1a81710c",
             "userName": "PuRe Pretzel",
             "best_run": {
