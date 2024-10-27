@@ -4619,47 +4619,13 @@
             "userName": "AgaveRacc",
             "best_run": {
                 "accuracy": 100,
-                "score": 187327,
+                "score": 187375,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": true
             },
             "sessions": [
-                {
-                    "time": 1724384853.038,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 172470,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 172470,
-                                "total": 172470
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 172470,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1724385188.049,
                     "valid": {
@@ -4966,6 +4932,49 @@
                             {
                                 "accuracy": 100,
                                 "score": 187249,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730059983.445,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 187375,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 43911,
+                                "base_score": 226350,
+                                "total": 287235
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 38975,
+                                "difficulty": 1,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 187375,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
