@@ -63,40 +63,6 @@
             },
             "sessions": [
                 {
-                    "time": 1729885569.066,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 195796,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 195796,
-                                "total": 195796
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 195796,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
-                {
                     "time": 1729885830.605,
                     "valid": {
                         "accuracy": 99,
@@ -414,6 +380,49 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730217156.221,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 191646,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 82120,
+                                "base_score": 268730,
+                                "total": 371063
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 77083,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 191646,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
@@ -4769,8 +4778,8 @@
         },
         {
             "rank": 63,
-            "teamId": "9ebe663e5f114bee8b49d2fdbbc13347",
-            "userName": "Mama Dakota",
+            "teamId": "",
+            "userName": null,
             "best_run": {
                 "accuracy": 100,
                 "score": 185888,
@@ -4809,7 +4818,7 @@
                                 "instrument": 4,
                                 "fullcombo": false,
                                 "stars": 6,
-                                "is_valid_entry": true
+                                "is_valid_entry": false
                             },
                             {
                                 "accuracy": 98,
