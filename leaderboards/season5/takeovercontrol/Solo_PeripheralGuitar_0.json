@@ -3555,6 +3555,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "time": 1730200584.473,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 259564,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 259564,
+                                "total": 259564
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 259564,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -4782,8 +4816,8 @@
         },
         {
             "rank": 35,
-            "teamId": "dfc82e3989a748229dc9fb0423b457d3",
-            "userName": "GarfLasaga",
+            "teamId": "",
+            "userName": null,
             "best_run": {
                 "accuracy": 100,
                 "score": 259228,
@@ -4840,7 +4874,7 @@
                                 "instrument": 4,
                                 "fullcombo": true,
                                 "stars": 6,
-                                "is_valid_entry": true
+                                "is_valid_entry": false
                             }
                         ]
                     }
