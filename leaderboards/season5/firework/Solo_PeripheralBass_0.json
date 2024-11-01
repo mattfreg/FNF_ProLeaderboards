@@ -1541,11 +1541,11 @@
             "userName": "tounique1",
             "best_run": {
                 "accuracy": 100,
-                "score": 133572,
+                "score": 136176,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1933,6 +1933,58 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730494533.552,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 136176,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 157081,
+                                "base_score": 287528,
+                                "total": 468613
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 136176,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 95780,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 55572,
+                                "difficulty": 1,
+                                "instrument": 1,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": false
                             }
                         ]
                     }
@@ -3728,7 +3780,7 @@
         {
             "rank": 57,
             "teamId": "fd1d5379710e4b8ca20f3b2117383a5a",
-            "userName": "bulletbch",
+            "userName": "cOnNie-marie",
             "best_run": {
                 "accuracy": 99,
                 "score": 125478,
