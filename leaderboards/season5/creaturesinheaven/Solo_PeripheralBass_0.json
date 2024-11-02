@@ -276,47 +276,13 @@
             "userName": "tiktokmorganwt13",
             "best_run": {
                 "accuracy": 100,
-                "score": 52601,
+                "score": 52707,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
                 "fullcombo": true
             },
             "sessions": [
-                {
-                    "time": 1729799214.841,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 52296,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 52296,
-                                "total": 52296
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 52296,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1729801198.889,
                     "valid": {
@@ -628,6 +594,49 @@
                                 "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730509410.958,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 52707,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 96,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 37182,
+                                "base_score": 167538,
+                                "total": 218779
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 52707,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 92,
+                                "score": 114831,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
                             }
                         ]
                     }
