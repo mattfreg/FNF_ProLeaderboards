@@ -700,6 +700,73 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 12,
+            "teamId": "039e82d9945e4a879cc3c439128c447c",
+            "userName": "El_Barracuda",
+            "best_run": {
+                "accuracy": 0,
+                "score": 0,
+                "difficulty": 1,
+                "instrument": 5,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730634765.603,
+                    "valid": {
+                        "accuracy": 0,
+                        "score": 0,
+                        "difficulty": 1,
+                        "instrument": 5,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 64,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 16962,
+                                "base_score": 108532,
+                                "total": 134438
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 0,
+                                "score": 0,
+                                "difficulty": 1,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 100598,
+                                "difficulty": 2,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 92,
+                                "score": 7934,
+                                "difficulty": 0,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 3,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
