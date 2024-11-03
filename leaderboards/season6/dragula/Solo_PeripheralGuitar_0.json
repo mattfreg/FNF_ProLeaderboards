@@ -280,12 +280,12 @@
             "teamId": "5ca979072a3245018cf464b82f6438e3",
             "userName": "InfamousRP",
             "best_run": {
-                "accuracy": 100,
-                "score": 201586,
+                "accuracy": 99,
+                "score": 202179,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -452,6 +452,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730666563.263,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 202179,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 202179,
+                                "total": 202179
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 202179,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
