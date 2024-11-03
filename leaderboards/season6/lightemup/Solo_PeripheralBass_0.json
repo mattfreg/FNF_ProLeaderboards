@@ -1410,6 +1410,64 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 23,
+            "teamId": "123d8e4f03e4445ba42a2845a989bea1",
+            "userName": "htt_mars",
+            "best_run": {
+                "accuracy": 0,
+                "score": 0,
+                "difficulty": 1,
+                "instrument": 5,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730609651.53,
+                    "valid": {
+                        "accuracy": 0,
+                        "score": 0,
+                        "difficulty": 1,
+                        "instrument": 5,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 50,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 139784,
+                                "total": 151812
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 139784,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 0,
+                                "score": 0,
+                                "difficulty": 1,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
