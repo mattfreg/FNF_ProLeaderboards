@@ -582,6 +582,73 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 10,
+            "teamId": "1aed78cc0b124314bccc0811f5242b0b",
+            "userName": "Cnk2017",
+            "best_run": {
+                "accuracy": 0,
+                "score": 0,
+                "difficulty": 2,
+                "instrument": 4,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730641538.225,
+                    "valid": {
+                        "accuracy": 0,
+                        "score": 0,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 48,
+                            "fullcombo": false,
+                            "stars": 3,
+                            "scores": {
+                                "overdrive_bonus": 1110,
+                                "base_score": 128273,
+                                "total": 150828
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 46,
+                                "score": 3575,
+                                "difficulty": 1,
+                                "instrument": 3,
+                                "fullcombo": false,
+                                "stars": 1,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 124698,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 0,
+                                "score": 0,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
