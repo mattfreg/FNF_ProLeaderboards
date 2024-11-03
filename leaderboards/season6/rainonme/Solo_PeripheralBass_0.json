@@ -66,6 +66,73 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 2,
+            "teamId": "72c83157775d44c7ac40064012e0670e",
+            "userName": "BitterPigeon4302",
+            "best_run": {
+                "accuracy": 12,
+                "score": 876,
+                "difficulty": 1,
+                "instrument": 5,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730610632.007,
+                    "valid": {
+                        "accuracy": 12,
+                        "score": 876,
+                        "difficulty": 1,
+                        "instrument": 5,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 70,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 26653,
+                                "base_score": 169994,
+                                "total": 225494
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 42337,
+                                "difficulty": 2,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 126780,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 12,
+                                "score": 876,
+                                "difficulty": 1,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
