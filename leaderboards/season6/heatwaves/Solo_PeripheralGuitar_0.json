@@ -100,131 +100,15 @@
         },
         {
             "rank": 3,
-            "teamId": "f05224413cde49f2b3695d7b6a3f548c",
-            "userName": "DasheCat",
-            "best_run": {
-                "accuracy": 99,
-                "score": 165874,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730605636.685,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 165874,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 98,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 58905,
-                                "base_score": 279027,
-                                "total": 361214
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 98,
-                                "score": 113152,
-                                "difficulty": 3,
-                                "instrument": 2,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 99,
-                                "score": 165874,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 4,
-            "teamId": "211d3d4d2dd34fc9aa095a56a7dc550a",
-            "userName": "DrMaxu\u30c4",
-            "best_run": {
-                "accuracy": 98,
-                "score": 162744,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730558769.857,
-                    "valid": {
-                        "accuracy": 98,
-                        "score": 162744,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 89,
-                            "fullcombo": false,
-                            "stars": 4,
-                            "scores": {
-                                "overdrive_bonus": 31388,
-                                "base_score": 234426,
-                                "total": 265814
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 80,
-                                "score": 71682,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 3,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 98,
-                                "score": 162744,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 5,
             "teamId": "c05fe33ec11f49638c494afeedfb539b",
             "userName": "CtW2000",
             "best_run": {
-                "accuracy": 98,
-                "score": 162704,
+                "accuracy": 100,
+                "score": 178144,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -284,6 +168,156 @@
                                 "fullcombo": false,
                                 "stars": 3,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730626118.249,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 178144,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 178144,
+                                "total": 178144
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 178144,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "teamId": "f05224413cde49f2b3695d7b6a3f548c",
+            "userName": "DasheCat",
+            "best_run": {
+                "accuracy": 99,
+                "score": 165874,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730605636.685,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 165874,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 58905,
+                                "base_score": 279027,
+                                "total": 361214
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 113152,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 165874,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 5,
+            "teamId": "211d3d4d2dd34fc9aa095a56a7dc550a",
+            "userName": "DrMaxu\u30c4",
+            "best_run": {
+                "accuracy": 98,
+                "score": 162744,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730558769.857,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 162744,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 89,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 31388,
+                                "base_score": 234426,
+                                "total": 265814
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 80,
+                                "score": 71682,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 3,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 162744,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
