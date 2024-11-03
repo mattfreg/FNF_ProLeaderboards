@@ -5,12 +5,12 @@
             "teamId": "0f095a1935154d638209e6ad66b92b60",
             "userName": "King of Fraud",
             "best_run": {
-                "accuracy": 98,
-                "score": 57273,
+                "accuracy": 100,
+                "score": 58439,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -154,6 +154,49 @@
                                 "fullcombo": false,
                                 "stars": 5,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730669630.26,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 58439,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 23960,
+                                "base_score": 94600,
+                                "total": 126322
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 58439,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 36161,
+                                "difficulty": 1,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
                             }
                         ]
                     }
