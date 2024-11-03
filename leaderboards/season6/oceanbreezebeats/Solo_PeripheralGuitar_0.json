@@ -155,6 +155,64 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 4,
+            "teamId": "86c9866543e0424dadd917a430479e01",
+            "userName": "spunsz",
+            "best_run": {
+                "accuracy": 99,
+                "score": 61347,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730601077.732,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 61347,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 33888,
+                                "base_score": 179055,
+                                "total": 228880
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 97,
+                                "score": 117708,
+                                "difficulty": 3,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 61347,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
