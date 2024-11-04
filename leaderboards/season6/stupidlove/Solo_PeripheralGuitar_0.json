@@ -892,6 +892,64 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 15,
+            "teamId": "2fb9a2bbb5714faea64b176c36d6e984",
+            "userName": "Emily Gilroy",
+            "best_run": {
+                "accuracy": 0,
+                "score": 0,
+                "difficulty": 1,
+                "instrument": 4,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730691218.179,
+                    "valid": {
+                        "accuracy": 0,
+                        "score": 0,
+                        "difficulty": 1,
+                        "instrument": 4,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 41,
+                            "fullcombo": false,
+                            "stars": 1,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 14097,
+                                "total": 15506
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 0,
+                                "score": 0,
+                                "difficulty": 1,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 83,
+                                "score": 14097,
+                                "difficulty": 1,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 2,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
