@@ -106,12 +106,12 @@
             "teamId": "0412cb74176e440380b9d8b5849f49d6",
             "userName": "Elsie Brays Toy",
             "best_run": {
-                "accuracy": 99,
-                "score": 145621,
+                "accuracy": 100,
+                "score": 147311,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -148,6 +148,74 @@
                             {
                                 "accuracy": 99,
                                 "score": 145621,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730750804.498,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 147311,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 147311,
+                                "total": 147311
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 147311,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730750978.627,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 146113,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 146113,
+                                "total": 146113
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 146113,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
