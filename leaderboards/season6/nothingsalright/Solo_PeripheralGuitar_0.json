@@ -349,72 +349,14 @@
         },
         {
             "rank": 6,
-            "teamId": "bd082d17af6d4d12ac7065a44cf77244",
-            "userName": "DRNG King",
-            "best_run": {
-                "accuracy": 97,
-                "score": 56295,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 5,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730569673.608,
-                    "valid": {
-                        "accuracy": 97,
-                        "score": 56295,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 5,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 94,
-                            "fullcombo": false,
-                            "stars": 4,
-                            "scores": {
-                                "overdrive_bonus": 18973,
-                                "base_score": 105920,
-                                "total": 134183
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 92,
-                                "score": 49625,
-                                "difficulty": 1,
-                                "instrument": 3,
-                                "fullcombo": false,
-                                "stars": 4,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 97,
-                                "score": 56295,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 5,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 7,
             "teamId": "d3f5af5ad3034086b69f035cfd7559ed",
             "userName": "AD and AS",
             "best_run": {
-                "accuracy": 81,
-                "score": 14931,
-                "difficulty": 1,
+                "accuracy": 98,
+                "score": 60070,
+                "difficulty": 2,
                 "instrument": 4,
-                "stars": 3,
+                "stars": 5,
                 "fullcombo": false
             },
             "sessions": [
@@ -466,6 +408,107 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730763015.045,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 60070,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 48793,
+                                "base_score": 134658,
+                                "total": 194338
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 60070,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 74587,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "teamId": "bd082d17af6d4d12ac7065a44cf77244",
+            "userName": "DRNG King",
+            "best_run": {
+                "accuracy": 97,
+                "score": 56295,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 5,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730569673.608,
+                    "valid": {
+                        "accuracy": 97,
+                        "score": 56295,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 94,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 18973,
+                                "base_score": 105920,
+                                "total": 134183
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 92,
+                                "score": 49625,
+                                "difficulty": 1,
+                                "instrument": 3,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 97,
+                                "score": 56295,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
                             }
                         ]
                     }
