@@ -2,6 +2,98 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "01db5bbd29a84bb4a842551f6c4956bc",
+            "userName": "Big L 2112",
+            "best_run": {
+                "accuracy": 100,
+                "score": 170898,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1730637060.001,
+                    "valid": {
+                        "accuracy": 97,
+                        "score": 122819,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 75,
+                            "fullcombo": false,
+                            "stars": 3,
+                            "scores": {
+                                "overdrive_bonus": 4025,
+                                "base_score": 130305,
+                                "total": 156564
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 53,
+                                "score": 7163,
+                                "difficulty": 1,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 1,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 97,
+                                "score": 122819,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730735694.357,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 170898,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 170898,
+                                "total": 170898
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 170898,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "4e8628287209418ba0f0201da7c94919",
             "userName": "King_Cactus2",
             "best_run": {
@@ -50,7 +142,7 @@
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
             "teamId": "2199a399bf7443dc95b3d0f270fca596",
             "userName": "InvoxiPlayGames",
             "best_run": {
@@ -99,7 +191,7 @@
             ]
         },
         {
-            "rank": 3,
+            "rank": 4,
             "teamId": "3420124a3f714cdc8d07928813f842d4",
             "userName": "MexicanVaporeon",
             "best_run": {
@@ -140,64 +232,6 @@
                                 "instrument": 5,
                                 "fullcombo": false,
                                 "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 4,
-            "teamId": "01db5bbd29a84bb4a842551f6c4956bc",
-            "userName": "Big L 2112",
-            "best_run": {
-                "accuracy": 97,
-                "score": 122819,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 5,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730637060.001,
-                    "valid": {
-                        "accuracy": 97,
-                        "score": 122819,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 5,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 75,
-                            "fullcombo": false,
-                            "stars": 3,
-                            "scores": {
-                                "overdrive_bonus": 4025,
-                                "base_score": 130305,
-                                "total": 156564
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 53,
-                                "score": 7163,
-                                "difficulty": 1,
-                                "instrument": 0,
-                                "fullcombo": false,
-                                "stars": 1,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 97,
-                                "score": 122819,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": false,
-                                "stars": 5,
                                 "is_valid_entry": true
                             }
                         ]
