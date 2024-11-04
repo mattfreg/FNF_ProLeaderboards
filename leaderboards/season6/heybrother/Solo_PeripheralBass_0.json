@@ -1017,6 +1017,64 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 17,
+            "teamId": "c068f903a786457a941c7de4bc990ba1",
+            "userName": "triplet102",
+            "best_run": {
+                "accuracy": 0,
+                "score": 0,
+                "difficulty": 2,
+                "instrument": 5,
+                "stars": 0,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730726131.032,
+                    "valid": {
+                        "accuracy": 0,
+                        "score": 0,
+                        "difficulty": 2,
+                        "instrument": 5,
+                        "stars": 0,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 50,
+                            "fullcombo": false,
+                            "stars": 2,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 54723,
+                                "total": 59268
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 0,
+                                "score": 0,
+                                "difficulty": 2,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 0,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 54723,
+                                "difficulty": 1,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
