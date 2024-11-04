@@ -751,10 +751,10 @@
             "userName": "Froosted Flakes",
             "best_run": {
                 "accuracy": 78,
-                "score": 78948,
-                "difficulty": 3,
+                "score": 91418,
+                "difficulty": 2,
                 "instrument": 4,
-                "stars": 3,
+                "stars": 4,
                 "fullcombo": false
             },
             "sessions": [
@@ -787,6 +787,40 @@
                                 "instrument": 4,
                                 "fullcombo": false,
                                 "stars": 3,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730756663.991,
+                    "valid": {
+                        "accuracy": 78,
+                        "score": 91418,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 4,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 78,
+                            "fullcombo": false,
+                            "stars": 3,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 91418,
+                                "total": 91418
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 78,
+                                "score": 91418,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 4,
                                 "is_valid_entry": true
                             }
                         ]
