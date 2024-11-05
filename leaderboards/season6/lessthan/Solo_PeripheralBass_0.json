@@ -2,6 +2,55 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "6c63d305a2604b2e8ca54154e4930de3",
+            "userName": "CrescentCat73",
+            "best_run": {
+                "accuracy": 100,
+                "score": 204564,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1730765979.084,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 204564,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 204564,
+                                "total": 204564
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 204564,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "c5ca7acfdcfb4df58c47a8efffa0c4ab",
             "userName": "PedroMagnanimo",
             "best_run": {
@@ -59,7 +108,83 @@
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
+            "teamId": "6dd07e7327d44f0483424bea3f29d3a9",
+            "userName": "Bear1172828",
+            "best_run": {
+                "accuracy": 98,
+                "score": 28386,
+                "difficulty": 0,
+                "instrument": 5,
+                "stars": 5,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730771090.305,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 28386,
+                        "difficulty": 0,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 92,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 258570,
+                                "base_score": 486709,
+                                "total": 787100
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 74,
+                                "score": 98095,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 208486,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 151740,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 28386,
+                                "difficulty": 0,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 4,
             "teamId": "99760be1f167447c85ae85b08a630182",
             "userName": "Chanoto1986",
             "best_run": {
