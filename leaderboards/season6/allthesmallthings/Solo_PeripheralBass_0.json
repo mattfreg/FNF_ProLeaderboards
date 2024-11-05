@@ -680,64 +680,15 @@
         },
         {
             "rank": 13,
-            "teamId": "342c9204710d4230b76688646f664114",
-            "userName": "FROZENGH\u30c4",
-            "best_run": {
-                "accuracy": 96,
-                "score": 115939,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 4,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730652264.362,
-                    "valid": {
-                        "accuracy": 96,
-                        "score": 115939,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 4,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 96,
-                            "fullcombo": false,
-                            "stars": 3,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 115939,
-                                "total": 115939
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 96,
-                                "score": 115939,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": false,
-                                "stars": 4,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 14,
             "teamId": "361a7aa6b5184ab895f2110fbee7419e",
             "userName": "Capt Moore",
             "best_run": {
-                "accuracy": 99,
-                "score": 111455,
+                "accuracy": 100,
+                "score": 116885,
                 "difficulty": 1,
                 "instrument": 5,
                 "stars": 5,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -797,6 +748,89 @@
                                 "fullcombo": false,
                                 "stars": 5,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730817578.689,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 116885,
+                        "difficulty": 1,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 116885,
+                                "total": 116885
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 116885,
+                                "difficulty": 1,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 14,
+            "teamId": "342c9204710d4230b76688646f664114",
+            "userName": "FROZENGH\u30c4",
+            "best_run": {
+                "accuracy": 96,
+                "score": 115939,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 4,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730652264.362,
+                    "valid": {
+                        "accuracy": 96,
+                        "score": 115939,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 4,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 96,
+                            "fullcombo": false,
+                            "stars": 3,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 115939,
+                                "total": 115939
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 96,
+                                "score": 115939,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": true
                             }
                         ]
                     }
