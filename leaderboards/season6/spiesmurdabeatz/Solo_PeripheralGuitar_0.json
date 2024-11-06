@@ -504,12 +504,12 @@
             "teamId": "b6e97804b9fb4259a93cce36cf95a2e6",
             "userName": "Eyc \uff92",
             "best_run": {
-                "accuracy": 99,
-                "score": 72642,
+                "accuracy": 100,
+                "score": 72869,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -574,6 +574,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730922734.642,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 72869,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 72869,
+                                "total": 72869
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 72869,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
