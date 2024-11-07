@@ -442,12 +442,12 @@
             "teamId": "6e26a7dc814d43c1b8ce273382bdd3ae",
             "userName": "THEAVETEAM-",
             "best_run": {
-                "accuracy": 100,
-                "score": 59782,
-                "difficulty": 2,
+                "accuracy": 98,
+                "score": 60952,
+                "difficulty": 3,
                 "instrument": 5,
-                "stars": 5,
-                "fullcombo": true
+                "stars": 6,
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -509,6 +509,40 @@
                             {
                                 "accuracy": 98,
                                 "score": 53735,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731014860.31,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 60952,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 60952,
+                                "total": 60952
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 60952,
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": false,
