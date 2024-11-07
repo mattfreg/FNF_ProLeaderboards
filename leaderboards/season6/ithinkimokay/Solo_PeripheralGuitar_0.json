@@ -1550,12 +1550,12 @@
             "teamId": "ee980a68a04e4af49d7d49cc0be5b80d",
             "userName": "Nash-i",
             "best_run": {
-                "accuracy": 98,
-                "score": 92142,
+                "accuracy": 100,
+                "score": 92760,
                 "difficulty": 2,
                 "instrument": 4,
                 "stars": 5,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1586,6 +1586,40 @@
                                 "difficulty": 2,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1730962202.583,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 92760,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 92760,
+                                "total": 92760
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 92760,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 5,
                                 "is_valid_entry": true
                             }
