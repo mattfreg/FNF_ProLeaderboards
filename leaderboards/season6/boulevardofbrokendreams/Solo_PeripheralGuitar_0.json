@@ -346,56 +346,13 @@
             "userName": "Soy_Furro_uwu",
             "best_run": {
                 "accuracy": 100,
-                "score": 302041,
+                "score": 302572,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": true
             },
             "sessions": [
-                {
-                    "time": 1731028028.766,
-                    "valid": {
-                        "accuracy": 98,
-                        "score": 269808,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 98,
-                            "fullcombo": false,
-                            "stars": 6,
-                            "scores": {
-                                "overdrive_bonus": 129463,
-                                "base_score": 480922,
-                                "total": 648781
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 211114,
-                                "difficulty": 3,
-                                "instrument": 0,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 98,
-                                "score": 269808,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1731028861.158,
                     "valid": {
@@ -756,6 +713,40 @@
                             {
                                 "accuracy": 100,
                                 "score": 302041,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731040122.219,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 302572,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 302572,
+                                "total": 302572
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 302572,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
