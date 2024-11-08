@@ -1312,12 +1312,12 @@
             "teamId": "6572040b0bed4db786933a9ed2a975fb",
             "userName": "Rodriguezfam735",
             "best_run": {
-                "accuracy": 100,
-                "score": 61328,
+                "accuracy": 99,
+                "score": 61379,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -1348,6 +1348,40 @@
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731037021.85,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 61379,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 61379,
+                                "total": 61379
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 61379,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
