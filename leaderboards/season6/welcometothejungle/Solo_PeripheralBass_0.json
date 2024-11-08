@@ -710,12 +710,12 @@
             "teamId": "239aaa6c74b34112abc98c17282b3882",
             "userName": "HunterMagnet",
             "best_run": {
-                "accuracy": 99,
-                "score": 174153,
+                "accuracy": 100,
+                "score": 184052,
                 "difficulty": 2,
                 "instrument": 5,
                 "stars": 5,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -746,6 +746,40 @@
                                 "difficulty": 2,
                                 "instrument": 5,
                                 "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731086800.328,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 184052,
+                        "difficulty": 2,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 184052,
+                                "total": 184052
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 184052,
+                                "difficulty": 2,
+                                "instrument": 5,
+                                "fullcombo": true,
                                 "stars": 5,
                                 "is_valid_entry": true
                             }
