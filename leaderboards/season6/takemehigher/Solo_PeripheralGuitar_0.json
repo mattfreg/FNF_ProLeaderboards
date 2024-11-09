@@ -5,12 +5,12 @@
             "teamId": "42b81868f6da4b6ba22aa412ef64c8f9",
             "userName": "DoodleBob453",
             "best_run": {
-                "accuracy": 99,
-                "score": 171289,
+                "accuracy": 100,
+                "score": 175744,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -143,6 +143,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731123760.999,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 175744,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 175744,
+                                "total": 175744
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 175744,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
