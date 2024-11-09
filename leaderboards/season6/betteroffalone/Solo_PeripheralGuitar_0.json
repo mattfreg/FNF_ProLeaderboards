@@ -759,12 +759,12 @@
             "teamId": "2c098bc0c0b24c00b303bd735c0cde23",
             "userName": "Whacko Jacko",
             "best_run": {
-                "accuracy": 100,
-                "score": 93834,
+                "accuracy": 99,
+                "score": 93966,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -804,6 +804,49 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731129372.434,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 93966,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 11187,
+                                "base_score": 107244,
+                                "total": 127071
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 13278,
+                                "difficulty": 0,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 93966,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
