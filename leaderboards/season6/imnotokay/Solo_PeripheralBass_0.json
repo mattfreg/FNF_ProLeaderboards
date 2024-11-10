@@ -2214,12 +2214,12 @@
             "teamId": "c168eb9b3a1440ad8d343ad4d1ba3058",
             "userName": "Wondertwins2002",
             "best_run": {
-                "accuracy": 99,
-                "score": 147742,
+                "accuracy": 100,
+                "score": 148293,
                 "difficulty": 2,
                 "instrument": 5,
                 "stars": 5,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -2352,6 +2352,40 @@
                                 "difficulty": 2,
                                 "instrument": 5,
                                 "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731275551.611,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 148293,
+                        "difficulty": 2,
+                        "instrument": 5,
+                        "stars": 5,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 148293,
+                                "total": 148293
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 148293,
+                                "difficulty": 2,
+                                "instrument": 5,
+                                "fullcombo": true,
                                 "stars": 5,
                                 "is_valid_entry": true
                             }
