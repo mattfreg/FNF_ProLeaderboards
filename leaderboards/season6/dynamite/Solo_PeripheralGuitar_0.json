@@ -3633,64 +3633,15 @@
         },
         {
             "rank": 62,
-            "teamId": "e271c1f859334ed69b0afc995d6df945",
-            "userName": "Minenus",
-            "best_run": {
-                "accuracy": 75,
-                "score": 20453,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 2,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1730620400.812,
-                    "valid": {
-                        "accuracy": 75,
-                        "score": 20453,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 2,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 75,
-                            "fullcombo": false,
-                            "stars": 1,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 20453,
-                                "total": 20453
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 75,
-                                "score": 20453,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 2,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 63,
             "teamId": "bf199c81b09b49f3abd22a9f1d2df1a6",
             "userName": "SHODREM0409",
             "best_run": {
-                "accuracy": 98,
-                "score": 15869,
+                "accuracy": 100,
+                "score": 20597,
                 "difficulty": 0,
                 "instrument": 4,
                 "stars": 5,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -3858,6 +3809,89 @@
                                 "instrument": 4,
                                 "fullcombo": false,
                                 "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731237929.848,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 20597,
+                        "difficulty": 0,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 20597,
+                                "total": 20597
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 20597,
+                                "difficulty": 0,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 63,
+            "teamId": "e271c1f859334ed69b0afc995d6df945",
+            "userName": "Minenus",
+            "best_run": {
+                "accuracy": 75,
+                "score": 20453,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 2,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1730620400.812,
+                    "valid": {
+                        "accuracy": 75,
+                        "score": 20453,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 2,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 75,
+                            "fullcombo": false,
+                            "stars": 1,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 20453,
+                                "total": 20453
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 75,
+                                "score": 20453,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 2,
                                 "is_valid_entry": true
                             }
                         ]
