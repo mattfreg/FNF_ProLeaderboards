@@ -3486,64 +3486,15 @@
         },
         {
             "rank": 36,
-            "teamId": "00d1428c735f4f6484a57ba9406c539a",
-            "userName": "Galaxy_Beto",
-            "best_run": {
-                "accuracy": 99,
-                "score": 289315,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1731039149.43,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 289315,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 289315,
-                                "total": 289315
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 289315,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 37,
             "teamId": "7bc770a69b764cdea0766a47486b2eb3",
             "userName": "Cari Freybren",
             "best_run": {
-                "accuracy": 99,
-                "score": 288914,
+                "accuracy": 100,
+                "score": 289331,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -3603,6 +3554,98 @@
                                 "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731211840.433,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 289331,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 96,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 66332,
+                                "base_score": 348217,
+                                "total": 472744
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 92,
+                                "score": 42016,
+                                "difficulty": 2,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 289331,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 37,
+            "teamId": "00d1428c735f4f6484a57ba9406c539a",
+            "userName": "Galaxy_Beto",
+            "best_run": {
+                "accuracy": 99,
+                "score": 289315,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1731039149.43,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 289315,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 289315,
+                                "total": 289315
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 289315,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }

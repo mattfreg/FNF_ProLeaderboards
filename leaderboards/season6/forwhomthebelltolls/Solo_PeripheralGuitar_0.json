@@ -4837,6 +4837,40 @@
                             }
                         ]
                     }
+                },
+                {
+                    "time": 1731211150.927,
+                    "valid": {
+                        "accuracy": 96,
+                        "score": 171817,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 96,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 171817,
+                                "total": 171817
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 96,
+                                "score": 171817,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
                 }
             ]
         },
@@ -6962,11 +6996,11 @@
         },
         {
             "rank": 100,
-            "teamId": "170be6e17ede48b7bf7f3dbe87a437c2",
-            "userName": "INKSavagesIX",
+            "teamId": "cfce47ed578c4f809c898846e72800d0",
+            "userName": "elix_xile",
             "best_run": {
-                "accuracy": 98,
-                "score": 179465,
+                "accuracy": 95,
+                "score": 179609,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -6974,10 +7008,10 @@
             },
             "sessions": [
                 {
-                    "time": 1731204870.455,
+                    "time": 1731212753.066,
                     "valid": {
-                        "accuracy": 98,
-                        "score": 179465,
+                        "accuracy": 95,
+                        "score": 179609,
                         "difficulty": 3,
                         "instrument": 4,
                         "stars": 6,
@@ -6985,24 +7019,33 @@
                     },
                     "stats": {
                         "band": {
-                            "accuracy": 98,
+                            "accuracy": 94,
                             "fullcombo": false,
                             "stars": 5,
                             "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 179465,
-                                "total": 179465
+                                "overdrive_bonus": 1687,
+                                "base_score": 196336,
+                                "total": 213351
                             }
                         },
                         "players": [
                             {
-                                "accuracy": 98,
-                                "score": 179465,
+                                "accuracy": 95,
+                                "score": 179609,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 94,
+                                "score": 16726,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 3,
+                                "is_valid_entry": false
                             }
                         ]
                     }
