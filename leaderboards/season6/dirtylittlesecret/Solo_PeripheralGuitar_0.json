@@ -6865,11 +6865,11 @@
         },
         {
             "rank": 100,
-            "teamId": "b9e656f9de3c42cbbcbe9d18fbead382",
-            "userName": "Pastel De Leche",
+            "teamId": "32467ad2ee20404698771816b5fdf33b",
+            "userName": "personwithdelta",
             "best_run": {
-                "accuracy": 98,
-                "score": 199164,
+                "accuracy": 100,
+                "score": 199268,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -6877,10 +6877,44 @@
             },
             "sessions": [
                 {
-                    "time": 1731121985.601,
+                    "time": 1731015172.959,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 159672,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 159672,
+                                "total": 159672
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 159672,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731258683.888,
                     "valid": {
                         "accuracy": 98,
-                        "score": 199164,
+                        "score": 189501,
                         "difficulty": 3,
                         "instrument": 4,
                         "stars": 6,
@@ -6893,14 +6927,48 @@
                             "stars": 5,
                             "scores": {
                                 "overdrive_bonus": 0,
-                                "base_score": 199164,
-                                "total": 199164
+                                "base_score": 189501,
+                                "total": 189501
                             }
                         },
                         "players": [
                             {
                                 "accuracy": 98,
-                                "score": 199164,
+                                "score": 189501,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731258906.832,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 199268,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 199268,
+                                "total": 199268
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 199268,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
