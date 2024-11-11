@@ -3422,48 +3422,14 @@
             "teamId": "7dca6d1cb6e245f3b77499c6dcc7c99b",
             "userName": "2AM MAGA",
             "best_run": {
-                "accuracy": 97,
-                "score": 105410,
+                "accuracy": 96,
+                "score": 106097,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 5,
                 "fullcombo": false
             },
             "sessions": [
-                {
-                    "time": 1731202233.542,
-                    "valid": {
-                        "accuracy": 87,
-                        "score": 43501,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 2,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 87,
-                            "fullcombo": false,
-                            "stars": 2,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 43501,
-                                "total": 43501
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 87,
-                                "score": 43501,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 2,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1731203907.799,
                     "valid": {
@@ -3775,6 +3741,40 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731368867.018,
+                    "valid": {
+                        "accuracy": 96,
+                        "score": 106097,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 96,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 106097,
+                                "total": 106097
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 96,
+                                "score": 106097,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
                             }
                         ]
                     }
