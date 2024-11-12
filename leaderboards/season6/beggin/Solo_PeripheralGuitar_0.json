@@ -6263,8 +6263,8 @@
             "teamId": "e0f781c424254e8d85f0ba1b1dcdfdb4",
             "userName": "theWORLDWithin",
             "best_run": {
-                "accuracy": 97,
-                "score": 99568,
+                "accuracy": 98,
+                "score": 99767,
                 "difficulty": 2,
                 "instrument": 4,
                 "stars": 5,
@@ -6296,6 +6296,40 @@
                             {
                                 "accuracy": 97,
                                 "score": 99568,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731435355.978,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 99767,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 5,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 99767,
+                                "total": 99767
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 99767,
                                 "difficulty": 2,
                                 "instrument": 4,
                                 "fullcombo": false,
@@ -7756,46 +7790,64 @@
         },
         {
             "rank": 100,
-            "teamId": "0254058aeeb448c38515bcc085fdf0a2",
-            "userName": "sailor jerrys",
+            "teamId": "18949212ead845e68df88c72b0008b15",
+            "userName": "FB_SaltinePlayz",
             "best_run": {
-                "accuracy": 94,
-                "score": 86288,
-                "difficulty": 2,
+                "accuracy": 90,
+                "score": 87147,
+                "difficulty": 3,
                 "instrument": 4,
-                "stars": 5,
+                "stars": 4,
                 "fullcombo": false
             },
             "sessions": [
                 {
-                    "time": 1731350225.104,
+                    "time": 1731436354.308,
                     "valid": {
-                        "accuracy": 94,
-                        "score": 86288,
-                        "difficulty": 2,
+                        "accuracy": 90,
+                        "score": 87147,
+                        "difficulty": 3,
                         "instrument": 4,
-                        "stars": 5,
+                        "stars": 4,
                         "fullcombo": false
                     },
                     "stats": {
                         "band": {
-                            "accuracy": 94,
+                            "accuracy": 92,
                             "fullcombo": false,
                             "stars": 4,
                             "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 86288,
-                                "total": 86288
+                                "overdrive_bonus": 77879,
+                                "base_score": 274270,
+                                "total": 399474
                             }
                         },
                         "players": [
                             {
-                                "accuracy": 94,
-                                "score": 86288,
-                                "difficulty": 2,
+                                "accuracy": 99,
+                                "score": 135469,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 88,
+                                "score": 51654,
+                                "difficulty": 3,
+                                "instrument": 3,
+                                "fullcombo": false,
+                                "stars": 2,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 90,
+                                "score": 87147,
+                                "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
-                                "stars": 5,
+                                "stars": 4,
                                 "is_valid_entry": true
                             }
                         ]
