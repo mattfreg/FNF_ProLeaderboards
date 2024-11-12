@@ -2,6 +2,98 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "2651cb71efa643ceb478f45739a4822c",
+            "userName": "Lethal_Sushi",
+            "best_run": {
+                "accuracy": 100,
+                "score": 93351,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1731292330.107,
+                    "valid": {
+                        "accuracy": 98,
+                        "score": 89944,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 89944,
+                                "total": 89944
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 89944,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731377362.764,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 93351,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 31115,
+                                "base_score": 176038,
+                                "total": 221499
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 93351,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 82686,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "71df8f5bbd5b4a3184ec90ea25f8d994",
             "userName": "axolotl dad",
             "best_run": {
@@ -52,55 +144,6 @@
                                 "fullcombo": false,
                                 "stars": 3,
                                 "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 2,
-            "teamId": "2651cb71efa643ceb478f45739a4822c",
-            "userName": "Lethal_Sushi",
-            "best_run": {
-                "accuracy": 98,
-                "score": 89944,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1731292330.107,
-                    "valid": {
-                        "accuracy": 98,
-                        "score": 89944,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 98,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 89944,
-                                "total": 89944
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 98,
-                                "score": 89944,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
                             }
                         ]
                     }
