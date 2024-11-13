@@ -265,60 +265,11 @@
         },
         {
             "rank": 6,
-            "teamId": "c0837d1df1474cc0887660498b183b84",
-            "userName": "Jesscam16",
-            "best_run": {
-                "accuracy": 99,
-                "score": 86709,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1731369824.833,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 86709,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 86709,
-                                "total": 86709
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 86709,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 7,
             "teamId": "39923a6afea64e22814741c24608775d",
             "userName": "g_master28",
             "best_run": {
                 "accuracy": 100,
-                "score": 80536,
+                "score": 87003,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -511,6 +462,98 @@
                                 "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731468647.511,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 87003,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 26197,
+                                "base_score": 152785,
+                                "total": 192043
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 87003,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 65782,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 7,
+            "teamId": "c0837d1df1474cc0887660498b183b84",
+            "userName": "Jesscam16",
+            "best_run": {
+                "accuracy": 99,
+                "score": 86709,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1731369824.833,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 86709,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 86709,
+                                "total": 86709
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 86709,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
