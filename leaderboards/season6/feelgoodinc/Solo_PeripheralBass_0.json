@@ -4871,48 +4871,14 @@
             "teamId": "b53b755d038040508b741851bfb5196c",
             "userName": "thegreek41",
             "best_run": {
-                "accuracy": 99,
-                "score": 51760,
+                "accuracy": 100,
+                "score": 51888,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
                 "fullcombo": false
             },
             "sessions": [
-                {
-                    "time": 1731109706.178,
-                    "valid": {
-                        "accuracy": 98,
-                        "score": 34964,
-                        "difficulty": 2,
-                        "instrument": 5,
-                        "stars": 5,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 98,
-                            "fullcombo": false,
-                            "stars": 4,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 34964,
-                                "total": 34964
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 98,
-                                "score": 34964,
-                                "difficulty": 2,
-                                "instrument": 5,
-                                "fullcombo": false,
-                                "stars": 5,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1731208007.401,
                     "valid": {
@@ -5251,6 +5217,40 @@
                                 "fullcombo": false,
                                 "stars": 4,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731537325.678,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 51888,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 51888,
+                                "total": 51888
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 51888,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
