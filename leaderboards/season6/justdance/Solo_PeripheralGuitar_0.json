@@ -938,11 +938,11 @@
             "userName": "YungMidasNPC",
             "best_run": {
                 "accuracy": 100,
-                "score": 82515,
+                "score": 83429,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -973,6 +973,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731568894.39,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 83429,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 83429,
+                                "total": 83429
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 83429,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
