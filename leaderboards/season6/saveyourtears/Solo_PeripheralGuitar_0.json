@@ -2403,82 +2403,15 @@
         },
         {
             "rank": 35,
-            "teamId": "0a9084dce1c746deb469c4a1f5188065",
-            "userName": "worm0dyssey",
+            "teamId": "cae60afeefc646f6ba4bfa1239248fca",
+            "userName": "Mr Garmanarnar",
             "best_run": {
                 "accuracy": 100,
-                "score": 116906,
+                "score": 117045,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1731740267.7,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 116906,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 6,
-                            "scores": {
-                                "overdrive_bonus": 173137,
-                                "base_score": 336500,
-                                "total": 564251
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 118936,
-                                "difficulty": 3,
-                                "instrument": 2,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 100,
-                                "score": 116906,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            },
-                            {
-                                "accuracy": 98,
-                                "score": 100657,
-                                "difficulty": 3,
-                                "instrument": 0,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 36,
-            "teamId": "cae60afeefc646f6ba4bfa1239248fca",
-            "userName": "Mr Garmanarnar",
-            "best_run": {
-                "accuracy": 99,
-                "score": 116747,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": false
             },
             "sessions": [
                 {
@@ -2579,6 +2512,107 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1731764049.944,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 117045,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 117045,
+                                "total": 117045
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 117045,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 36,
+            "teamId": "0a9084dce1c746deb469c4a1f5188065",
+            "userName": "worm0dyssey",
+            "best_run": {
+                "accuracy": 100,
+                "score": 116906,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1731740267.7,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 116906,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 173137,
+                                "base_score": 336500,
+                                "total": 564251
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 118936,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 116906,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 98,
+                                "score": 100657,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
                             }
                         ]
                     }
