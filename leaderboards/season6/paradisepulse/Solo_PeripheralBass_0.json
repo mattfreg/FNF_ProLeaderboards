@@ -560,6 +560,73 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 10,
+            "teamId": "2c977a50a18c4582b5cd36df311fa2a1",
+            "userName": "onza_1",
+            "best_run": {
+                "accuracy": 97,
+                "score": 51084,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 4,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1731740257.697,
+                    "valid": {
+                        "accuracy": 97,
+                        "score": 51084,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 4,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 75,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 78066,
+                                "base_score": 293802,
+                                "total": 420825
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 29,
+                                "score": 20982,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 3,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 221736,
+                                "difficulty": 3,
+                                "instrument": 3,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 97,
+                                "score": 51084,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
