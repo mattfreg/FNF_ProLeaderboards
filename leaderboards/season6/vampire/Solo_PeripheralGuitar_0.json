@@ -2180,60 +2180,11 @@
         },
         {
             "rank": 22,
-            "teamId": "b908af25a29441eeac13c3a31d8119df",
-            "userName": "DYNAMITE DAWG",
-            "best_run": {
-                "accuracy": 100,
-                "score": 186950,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1731549964.406,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 186950,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 186950,
-                                "total": 186950
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 186950,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 23,
             "teamId": "1a66cdea069e477c951a960590d3432e",
             "userName": "egtrn8",
             "best_run": {
                 "accuracy": 99,
-                "score": 186746,
+                "score": 187431,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -2311,6 +2262,98 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732011239.226,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 187431,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 97,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 44321,
+                                "base_score": 243808,
+                                "total": 307564
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 187431,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 95,
+                                "score": 56377,
+                                "difficulty": 2,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 23,
+            "teamId": "b908af25a29441eeac13c3a31d8119df",
+            "userName": "DYNAMITE DAWG",
+            "best_run": {
+                "accuracy": 100,
+                "score": 186950,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1731549964.406,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 186950,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 186950,
+                                "total": 186950
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 186950,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
