@@ -708,6 +708,58 @@
                             }
                         ]
                     }
+                },
+                {
+                    "time": 1732057265.935,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 122132,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 91363,
+                                "base_score": 245573,
+                                "total": 378052
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 82375,
+                                "difficulty": 2,
+                                "instrument": 0,
+                                "fullcombo": true,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 122132,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 96,
+                                "score": 27514,
+                                "difficulty": 0,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
                 }
             ]
         },
