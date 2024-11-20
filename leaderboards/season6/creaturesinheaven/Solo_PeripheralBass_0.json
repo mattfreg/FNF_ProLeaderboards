@@ -2109,11 +2109,11 @@
             "teamId": "",
             "userName": null,
             "best_run": {
-                "accuracy": 68,
-                "score": 5412,
-                "difficulty": 3,
+                "accuracy": 82,
+                "score": 6341,
+                "difficulty": 0,
                 "instrument": 5,
-                "stars": 1,
+                "stars": 2,
                 "fullcombo": false
             },
             "sessions": [
@@ -2180,6 +2180,40 @@
                                 "instrument": 5,
                                 "fullcombo": false,
                                 "stars": 1,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732099064.14,
+                    "valid": {
+                        "accuracy": 82,
+                        "score": 6341,
+                        "difficulty": 0,
+                        "instrument": 5,
+                        "stars": 2,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 82,
+                            "fullcombo": false,
+                            "stars": 1,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 6341,
+                                "total": 6341
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 82,
+                                "score": 6341,
+                                "difficulty": 0,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 2,
                                 "is_valid_entry": false
                             }
                         ]
