@@ -304,12 +304,12 @@
             "teamId": "7b462e415ddc45adbef6ca1c96a8442b",
             "userName": "Spectrum Hero",
             "best_run": {
-                "accuracy": 99,
-                "score": 272857,
+                "accuracy": 100,
+                "score": 273892,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -408,6 +408,40 @@
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732141435.454,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 273892,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 273892,
+                                "total": 273892
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 273892,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
