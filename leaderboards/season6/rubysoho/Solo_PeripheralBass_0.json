@@ -64,11 +64,11 @@
             "userName": "Tetra7824",
             "best_run": {
                 "accuracy": 100,
-                "score": 133872,
+                "score": 136716,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -167,6 +167,40 @@
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732138431.548,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 136716,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 136716,
+                                "total": 136716
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 136716,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
