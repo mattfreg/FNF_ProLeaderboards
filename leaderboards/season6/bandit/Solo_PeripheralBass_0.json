@@ -2,69 +2,11 @@
     "entries": [
         {
             "rank": 1,
-            "teamId": "18cb31239a2b49209e76b2cd8b18ceaa",
-            "userName": "BannerRoll",
-            "best_run": {
-                "accuracy": 100,
-                "score": 45540,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1731748136.229,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 45540,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 18018,
-                                "base_score": 74658,
-                                "total": 92676
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 98,
-                                "score": 29118,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": false,
-                                "stars": 5,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 100,
-                                "score": 45540,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 2,
             "teamId": "97f8e1df501b4d48a783446d4214e3df",
             "userName": "l0gan\u30c3",
             "best_run": {
                 "accuracy": 100,
-                "score": 45447,
+                "score": 45658,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
@@ -368,6 +310,98 @@
                             {
                                 "accuracy": 100,
                                 "score": 44727,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732125906.451,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 45658,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 45658,
+                                "total": 45658
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 45658,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "teamId": "18cb31239a2b49209e76b2cd8b18ceaa",
+            "userName": "BannerRoll",
+            "best_run": {
+                "accuracy": 100,
+                "score": 45540,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1731748136.229,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 45540,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 18018,
+                                "base_score": 74658,
+                                "total": 92676
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 29118,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 45540,
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": true,
