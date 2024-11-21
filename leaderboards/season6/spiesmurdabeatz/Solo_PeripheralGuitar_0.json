@@ -323,7 +323,7 @@
             "userName": "DaCableGuyEG",
             "best_run": {
                 "accuracy": 100,
-                "score": 78463,
+                "score": 78523,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
@@ -378,6 +378,74 @@
                                 "fullcombo": false,
                                 "stars": 4,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732224244.109,
+                    "valid": {
+                        "accuracy": 97,
+                        "score": 65403,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 97,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 65403,
+                                "total": 65403
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 97,
+                                "score": 65403,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732224409.017,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 78523,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 78523,
+                                "total": 78523
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 78523,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
