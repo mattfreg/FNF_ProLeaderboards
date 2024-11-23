@@ -448,6 +448,98 @@
         },
         {
             "rank": 4,
+            "teamId": "d00b517b93ab4876935e22aaec06b5b7",
+            "userName": "lnsomn",
+            "best_run": {
+                "accuracy": 100,
+                "score": 131947,
+                "difficulty": 3,
+                "instrument": 4,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1732290618.749,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 131587,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 131587,
+                                "total": 131587
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 131587,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732396172.194,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 131947,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 66595,
+                                "base_score": 237551,
+                                "total": 366509
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 41257,
+                                "difficulty": 2,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 131947,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 5,
             "teamId": "6b56d15fcb184402a78e38199c41f01d",
             "userName": "Gnashers",
             "best_run": {
@@ -575,55 +667,6 @@
                                 "fullcombo": true,
                                 "stars": 5,
                                 "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 5,
-            "teamId": "d00b517b93ab4876935e22aaec06b5b7",
-            "userName": "lnsomn",
-            "best_run": {
-                "accuracy": 100,
-                "score": 131587,
-                "difficulty": 3,
-                "instrument": 4,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1732290618.749,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 131587,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 131587,
-                                "total": 131587
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 131587,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
                             }
                         ]
                     }
