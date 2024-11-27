@@ -505,47 +505,13 @@
             "userName": "jorge_rockr",
             "best_run": {
                 "accuracy": 99,
-                "score": 452699,
+                "score": 453411,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
                 "fullcombo": false
             },
             "sessions": [
-                {
-                    "time": 1731537068.461,
-                    "valid": {
-                        "accuracy": 94,
-                        "score": 388095,
-                        "difficulty": 3,
-                        "instrument": 4,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 94,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 388095,
-                                "total": 388095
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 94,
-                                "score": 388095,
-                                "difficulty": 3,
-                                "instrument": 4,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                },
                 {
                     "time": 1731628415.081,
                     "valid": {
@@ -902,6 +868,40 @@
                                 "fullcombo": false,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732748585.29,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 453411,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 453412,
+                                "total": 453411
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 453411,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }

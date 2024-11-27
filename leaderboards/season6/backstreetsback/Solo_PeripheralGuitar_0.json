@@ -112,12 +112,12 @@
             "teamId": "6d3a97785f2349e28d5a278caf138a89",
             "userName": "jorge_rockr",
             "best_run": {
-                "accuracy": 100,
-                "score": 90527,
+                "accuracy": 99,
+                "score": 94387,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -362,6 +362,40 @@
                             {
                                 "accuracy": 98,
                                 "score": 81420,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732749120.509,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 94387,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 94387,
+                                "total": 94387
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 94387,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
