@@ -1414,12 +1414,12 @@
             "teamId": "3f6c54d9ff1246a4b4ccfb5cbe584dad",
             "userName": "Vibez Tac",
             "best_run": {
-                "accuracy": 99,
-                "score": 137390,
+                "accuracy": 100,
+                "score": 137572,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1687,6 +1687,40 @@
                             {
                                 "accuracy": 100,
                                 "score": 130859,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732719540.172,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 137572,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 137572,
+                                "total": 137572
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 137572,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
