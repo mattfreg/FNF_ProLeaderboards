@@ -100,69 +100,11 @@
         },
         {
             "rank": 3,
-            "teamId": "50ab2b1f6a3d493e9ab7eaca12d933d1",
-            "userName": "KiraVulfenn",
-            "best_run": {
-                "accuracy": 100,
-                "score": 24621,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1732575579.081,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 24621,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 89,
-                            "fullcombo": false,
-                            "stars": 2,
-                            "scores": {
-                                "overdrive_bonus": 2815,
-                                "base_score": 41326,
-                                "total": 51190
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 78,
-                                "score": 16705,
-                                "difficulty": 2,
-                                "instrument": 3,
-                                "fullcombo": false,
-                                "stars": 2,
-                                "is_valid_entry": false
-                            },
-                            {
-                                "accuracy": 100,
-                                "score": 24621,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 4,
             "teamId": "d7bd5936f8e34ad685b4e81f48669b2a",
             "userName": "Zenith Cut",
             "best_run": {
                 "accuracy": 100,
-                "score": 24486,
+                "score": 24625,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
@@ -228,6 +170,98 @@
                             {
                                 "accuracy": 100,
                                 "score": 24486,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732745107.1,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 24625,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 24625,
+                                "total": 24625
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 24625,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 4,
+            "teamId": "50ab2b1f6a3d493e9ab7eaca12d933d1",
+            "userName": "KiraVulfenn",
+            "best_run": {
+                "accuracy": 100,
+                "score": 24621,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1732575579.081,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 24621,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 89,
+                            "fullcombo": false,
+                            "stars": 2,
+                            "scores": {
+                                "overdrive_bonus": 2815,
+                                "base_score": 41326,
+                                "total": 51190
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 78,
+                                "score": 16705,
+                                "difficulty": 2,
+                                "instrument": 3,
+                                "fullcombo": false,
+                                "stars": 2,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 24621,
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": true,
