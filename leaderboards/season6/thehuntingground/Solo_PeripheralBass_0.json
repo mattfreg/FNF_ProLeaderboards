@@ -244,12 +244,12 @@
             "teamId": "529d3de8f3a3441db18445a6cf786e46",
             "userName": "Feufty",
             "best_run": {
-                "accuracy": 100,
-                "score": 74340,
+                "accuracy": 99,
+                "score": 76164,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -329,6 +329,49 @@
                             {
                                 "accuracy": 99,
                                 "score": 66622,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732794341.484,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 76164,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 98,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 39127,
+                                "base_score": 172437,
+                                "total": 225344
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 98,
+                                "score": 96273,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": false,
+                                "stars": 5,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 76164,
                                 "difficulty": 3,
                                 "instrument": 5,
                                 "fullcombo": false,
