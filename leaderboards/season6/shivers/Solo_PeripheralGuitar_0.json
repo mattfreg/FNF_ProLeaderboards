@@ -342,12 +342,12 @@
             "teamId": "d2489718619d43c7abbee216ae74a600",
             "userName": "L\u00fccif\u00e8\u0213",
             "best_run": {
-                "accuracy": 99,
-                "score": 117427,
+                "accuracy": 100,
+                "score": 117496,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -443,6 +443,40 @@
                             {
                                 "accuracy": 100,
                                 "score": 117015,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1732828280.217,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 117496,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 117496,
+                                "total": 117496
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 117496,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
