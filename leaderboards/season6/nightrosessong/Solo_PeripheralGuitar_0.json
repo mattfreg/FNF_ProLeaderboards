@@ -5,12 +5,12 @@
             "teamId": "d0df56409c5f475ea5a421820ff0f741",
             "userName": "Fabieoh",
             "best_run": {
-                "accuracy": 99,
-                "score": 195063,
+                "accuracy": 100,
+                "score": 196872,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -75,6 +75,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1733181533.134,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 196872,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 196872,
+                                "total": 196872
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 196872,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
@@ -313,6 +347,64 @@
         },
         {
             "rank": 5,
+            "teamId": "070d49ef04f045d9aac65628d8bbf569",
+            "userName": "MoneyBagRhys",
+            "best_run": {
+                "accuracy": 61,
+                "score": 11441,
+                "difficulty": 2,
+                "instrument": 4,
+                "stars": 1,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1733181025.651,
+                    "valid": {
+                        "accuracy": 61,
+                        "score": 11441,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 1,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 80,
+                            "fullcombo": false,
+                            "stars": 4,
+                            "scores": {
+                                "overdrive_bonus": 2418,
+                                "base_score": 146930,
+                                "total": 161096
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 135488,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 61,
+                                "score": 11441,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 1,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 6,
             "teamId": "f4a380db3ee146d08185466b57b05595",
             "userName": "iAmZy215",
             "best_run": {
@@ -379,7 +471,7 @@
             ]
         },
         {
-            "rank": 6,
+            "rank": 7,
             "teamId": "16089aa5f6144bf99eb67d6740e35bd9",
             "userName": "MMN-Trell",
             "best_run": {
