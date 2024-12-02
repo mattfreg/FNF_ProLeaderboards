@@ -2,6 +2,89 @@
     "entries": [
         {
             "rank": 1,
+            "teamId": "fec8ee7335f449298a693f57c49602b2",
+            "userName": "Rocket0602",
+            "best_run": {
+                "accuracy": 100,
+                "score": 176912,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1732985671.862,
+                    "valid": {
+                        "accuracy": 99,
+                        "score": 171003,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 99,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 171003,
+                                "total": 171003
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 99,
+                                "score": 171003,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1733108338.768,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 176912,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 176912,
+                                "total": 176912
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 176912,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
             "teamId": "e3dd55be14af4c649c4987b9fa7592cb",
             "userName": "BrotherValentine",
             "best_run": {
@@ -50,7 +133,7 @@
             ]
         },
         {
-            "rank": 2,
+            "rank": 3,
             "teamId": "a8880098725a46cd8a49d9293d1cfbb2",
             "userName": "Portable_Head",
             "best_run": {
@@ -99,7 +182,7 @@
             ]
         },
         {
-            "rank": 3,
+            "rank": 4,
             "teamId": "dcab6fdeb6cd418b83d8a4e79289c230",
             "userName": "Frigidzero",
             "best_run": {
@@ -193,55 +276,6 @@
                                 "fullcombo": false,
                                 "stars": 5,
                                 "is_valid_entry": false
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 4,
-            "teamId": "fec8ee7335f449298a693f57c49602b2",
-            "userName": "Rocket0602",
-            "best_run": {
-                "accuracy": 99,
-                "score": 171003,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": false
-            },
-            "sessions": [
-                {
-                    "time": 1732985671.862,
-                    "valid": {
-                        "accuracy": 99,
-                        "score": 171003,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": false
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 99,
-                            "fullcombo": false,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 171003,
-                                "total": 171003
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 99,
-                                "score": 171003,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": false,
-                                "stars": 6,
-                                "is_valid_entry": true
                             }
                         ]
                     }
