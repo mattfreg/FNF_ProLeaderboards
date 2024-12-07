@@ -1563,11 +1563,11 @@
             "userName": "Jasper072213",
             "best_run": {
                 "accuracy": 100,
-                "score": 236354,
+                "score": 237171,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": false
+                "fullcombo": true
             },
             "sessions": [
                 {
@@ -1598,6 +1598,40 @@
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1733577200.262,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 237171,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 237171,
+                                "total": 237171
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 237171,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": true
                             }
