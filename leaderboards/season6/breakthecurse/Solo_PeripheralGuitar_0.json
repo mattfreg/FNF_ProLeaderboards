@@ -607,6 +607,82 @@
                     }
                 }
             ]
+        },
+        {
+            "rank": 7,
+            "teamId": "af11c179c8f04222ab6e88460061560a",
+            "userName": "JPPumpernickels",
+            "best_run": {
+                "accuracy": 71,
+                "score": 23456,
+                "difficulty": 2,
+                "instrument": 4,
+                "stars": 2,
+                "fullcombo": false
+            },
+            "sessions": [
+                {
+                    "time": 1733567140.86,
+                    "valid": {
+                        "accuracy": 71,
+                        "score": 23456,
+                        "difficulty": 2,
+                        "instrument": 4,
+                        "stars": 2,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 91,
+                            "fullcombo": false,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 202160,
+                                "base_score": 375948,
+                                "total": 669927
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 71,
+                                "score": 23456,
+                                "difficulty": 2,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 2,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 99,
+                                "score": 110453,
+                                "difficulty": 3,
+                                "instrument": 0,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 95,
+                                "score": 85602,
+                                "difficulty": 3,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 4,
+                                "is_valid_entry": false
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 156435,
+                                "difficulty": 3,
+                                "instrument": 2,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
         }
     ]
 }
