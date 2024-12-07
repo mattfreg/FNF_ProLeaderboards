@@ -2,64 +2,15 @@
     "entries": [
         {
             "rank": 1,
-            "teamId": "a1078a0b4c5847b4aaa9824326d41b85",
-            "userName": "natev35",
+            "teamId": "fec8ee7335f449298a693f57c49602b2",
+            "userName": "Rocket0602",
             "best_run": {
                 "accuracy": 100,
-                "score": 315126,
+                "score": 316548,
                 "difficulty": 3,
                 "instrument": 5,
                 "stars": 6,
                 "fullcombo": true
-            },
-            "sessions": [
-                {
-                    "time": 1732773112.69,
-                    "valid": {
-                        "accuracy": 100,
-                        "score": 315126,
-                        "difficulty": 3,
-                        "instrument": 5,
-                        "stars": 6,
-                        "fullcombo": true
-                    },
-                    "stats": {
-                        "band": {
-                            "accuracy": 100,
-                            "fullcombo": true,
-                            "stars": 5,
-                            "scores": {
-                                "overdrive_bonus": 0,
-                                "base_score": 315126,
-                                "total": 315126
-                            }
-                        },
-                        "players": [
-                            {
-                                "accuracy": 100,
-                                "score": 315126,
-                                "difficulty": 3,
-                                "instrument": 5,
-                                "fullcombo": true,
-                                "stars": 6,
-                                "is_valid_entry": true
-                            }
-                        ]
-                    }
-                }
-            ]
-        },
-        {
-            "rank": 2,
-            "teamId": "fec8ee7335f449298a693f57c49602b2",
-            "userName": "Rocket0602",
-            "best_run": {
-                "accuracy": 99,
-                "score": 314190,
-                "difficulty": 3,
-                "instrument": 5,
-                "stars": 6,
-                "fullcombo": false
             },
             "sessions": [
                 {
@@ -318,6 +269,98 @@
                                 "fullcombo": true,
                                 "stars": 6,
                                 "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1733589947.403,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 316548,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 6,
+                            "scores": {
+                                "overdrive_bonus": 262656,
+                                "base_score": 632676,
+                                "total": 945049
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 316548,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 100,
+                                "score": 316128,
+                                "difficulty": 3,
+                                "instrument": 1,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "rank": 2,
+            "teamId": "a1078a0b4c5847b4aaa9824326d41b85",
+            "userName": "natev35",
+            "best_run": {
+                "accuracy": 100,
+                "score": 315126,
+                "difficulty": 3,
+                "instrument": 5,
+                "stars": 6,
+                "fullcombo": true
+            },
+            "sessions": [
+                {
+                    "time": 1732773112.69,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 315126,
+                        "difficulty": 3,
+                        "instrument": 5,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 315126,
+                                "total": 315126
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 315126,
+                                "difficulty": 3,
+                                "instrument": 5,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
                             }
                         ]
                     }
