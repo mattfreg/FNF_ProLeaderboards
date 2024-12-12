@@ -5452,8 +5452,8 @@
         },
         {
             "rank": 58,
-            "teamId": "54d0945810584d548904d54fce74e074",
-            "userName": "Mikel1",
+            "teamId": "",
+            "userName": null,
             "best_run": {
                 "accuracy": 99,
                 "score": 216723,
@@ -5492,7 +5492,7 @@
                                 "instrument": 4,
                                 "fullcombo": false,
                                 "stars": 6,
-                                "is_valid_entry": true
+                                "is_valid_entry": false
                             }
                         ]
                     }
@@ -6361,6 +6361,40 @@
                             {
                                 "accuracy": 100,
                                 "score": 198359,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": true,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1734033012.346,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 214737,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": true
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 100,
+                            "fullcombo": true,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 0,
+                                "base_score": 214737,
+                                "total": 214737
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 214737,
                                 "difficulty": 3,
                                 "instrument": 4,
                                 "fullcombo": true,
