@@ -7763,11 +7763,11 @@
             "userName": "oso_HMM",
             "best_run": {
                 "accuracy": 100,
-                "score": 256588,
+                "score": 256703,
                 "difficulty": 3,
                 "instrument": 4,
                 "stars": 6,
-                "fullcombo": true
+                "fullcombo": false
             },
             "sessions": [
                 {
@@ -7903,6 +7903,49 @@
                                 "instrument": 0,
                                 "fullcombo": false,
                                 "stars": 6,
+                                "is_valid_entry": false
+                            }
+                        ]
+                    }
+                },
+                {
+                    "time": 1734056391.062,
+                    "valid": {
+                        "accuracy": 100,
+                        "score": 256703,
+                        "difficulty": 3,
+                        "instrument": 4,
+                        "stars": 6,
+                        "fullcombo": false
+                    },
+                    "stats": {
+                        "band": {
+                            "accuracy": 85,
+                            "fullcombo": false,
+                            "stars": 5,
+                            "scores": {
+                                "overdrive_bonus": 920,
+                                "base_score": 261193,
+                                "total": 283169
+                            }
+                        },
+                        "players": [
+                            {
+                                "accuracy": 100,
+                                "score": 256703,
+                                "difficulty": 3,
+                                "instrument": 4,
+                                "fullcombo": false,
+                                "stars": 6,
+                                "is_valid_entry": true
+                            },
+                            {
+                                "accuracy": 71,
+                                "score": 4490,
+                                "difficulty": 0,
+                                "instrument": 1,
+                                "fullcombo": false,
+                                "stars": 1,
                                 "is_valid_entry": false
                             }
                         ]
